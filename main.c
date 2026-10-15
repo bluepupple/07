@@ -1,6 +1,9 @@
+
 #include <stdio.h>
+
 int all_files;
-extern void sub();
+
+extern void sub(void);
 
 int main(void)
 {
